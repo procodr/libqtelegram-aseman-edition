@@ -10,7 +10,7 @@ It's a fork of libqtelegram by Aseman Team which is porting to windows and mac a
 Install gcc, g++, openssl, git, Qt5Core, Qt5DBus, Qt5Gui, Qt5Multimedia, Qt5MultimediaQuick_p, Qt5Network, Qt5PrintSupport, Qt5Qml, Qt5Quick, Qt5Sql, Qt5Svg, and Qt5Widgets.
 on Ubuntu:
 
-    sudo apt-get install g++ gcc git qtbase5-dev libqt5sql5-sqlite libqt5multimediaquick-p5 libqt5multimedia5-plugins libqt5multimedia5 libqt5qml5 libqt5qml-graphicaleffects libqt5qml-quickcontrols qtdeclarative5-dev libqt5quick5 
+    sudo apt-get install g++ gcc git libssl-dev qt5-default qtbase5-dev libqt5sql5-sqlite libqt5multimediaquick-p5 libqt5multimedia5-plugins libqt5multimedia5 libqt5qml5 libqt5qml-graphicaleffects qml-module-qtquick-controls qtdeclarative5-dev libqt5quick5 
 
 on Fedora (tested on Fedora 20):
 
